@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Hibernate">
+    <CLASSES>
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/antlr-2.7.7.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/classmate-1.3.0.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/dom4j-1.6.1.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/ehcache-2.10.3.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/hibernate-c3p0-5.2.9.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/hibernate-core-5.2.9.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/hibernate-ehcache-5.2.9.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/hibernate-jpamodelgen-5.2.9.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/jandex-2.0.3.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/jboss-logging-3.3.0.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/jboss-transaction-api_1.2_spec-1.0.1.Final.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/junit-4.9.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/mchange-commons-java-0.2.11.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://D:/Tencentfile/qqdata/642688028/FileRecv/h01-helloHibernate/jar/slf4j-log4j12-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
