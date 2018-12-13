@@ -43,20 +43,16 @@ public class GameView extends View {
 
 
 
-        for(int j=0; j<numberY;j++){
-            for(int i =0; i<numberX;i++ ){
+        for(int i=0; i<numberY;i++){
+            for(int j=0; j<numberX;j++ ){
                 Piece piece =new Piece(i,j);
                 piece.setImage(playImages.get(p));
                 p++;
-                piece.setBeginX(i*piece_width+begin_imageX);
-                piece.setBeginY(j*piece_height+begin_imageY);
+                piece.setBeginX(j*piece_width+begin_imageX);
+                piece.setBeginY(i*piece_height+begin_imageY);
                 canvas.drawBitmap(piece.getImage().getImage(),piece.getBeginX(),piece.getBeginY(),null);
                 this.pieces[i][j]= piece;
             }
-
-
-
         }
-
     }
 }

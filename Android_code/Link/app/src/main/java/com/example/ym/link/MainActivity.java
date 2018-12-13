@@ -58,7 +58,7 @@ MainActivity extends AppCompatActivity {
     private void init() {
         gameView = findViewById(R.id.gameView);
         gameView.setContext_game(this);
-        this.gameView.setOnClickListener(new View.OnTouchListener() {
+        this.gameView.setOnTouchListener(new View.OnTouchListener() {
             public boolean onTouch(View view, MotionEvent e) {
                 if (e.getAction() == MotionEvent.ACTION_DOWN) {
                     gameViewTouchDown(e);
@@ -71,9 +71,6 @@ MainActivity extends AppCompatActivity {
         });
     }
 
-
-
-    }
     public void gameViewTouchDown(MotionEvent event){
 
     }
