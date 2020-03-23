@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d3b5612-fa0a-4761-bc10-87648117da3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/static/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/BankFund/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/JsonTest1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/JsonTest2/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/JsonTest2/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/main/java/com/cdut/demo/Model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/main/java/com/cdut/demo/Service/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/main/java/com/cdut/demo/Test/UnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/main/java/com/cdut/demo/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/main/java/com/cdut/demo/mapper/TestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/main/resources/Mapper/TestMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/MapperTest/src/test/java/com/cdut/demo/Service/TestServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/NormalPorject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/NormalPorject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/NormalPorject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/NormalPorject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/NormalPorject/NormalPorject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../idea_javaweb/NormalPorject/src/com/cdut/ym/FileSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/commons-lang3-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/ehcache-2.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/freemarker-2.3.26-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/hibernate-c3p0-5.2.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/hibernate-core-5.2.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/hibernate-ehcache-5.2.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/hibernate-jpamodelgen-5.2.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/junit-4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/log4j-api-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/ognl-3.1.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/slf4j-api-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/slf4j-log4j12-1.5.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/demo_sf/web/WEB-INF/lib/struts2-core-2.5.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/.idea/.rebel.xml.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/Thread_test_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/IOtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/BlackSleep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Countdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/IO/wym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/IO/ym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/PersonCreater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/PersonCreater2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/abs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/exercise/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/exercise/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/exercise/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/exercise/Exercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/exercise/Exercise5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Lambda/test0731.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Marry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Racer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/StaticProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/TerminateThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Test0908.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Web12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/WeddingCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/Yield/MyYield.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/You.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/bianlimap/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/jiecheng/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/jiecheng/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/jiecheng/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/jiecheng/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/jimi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/paixu/qushuzu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/paixu/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/shunxu/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test0716.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test0826.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test0922/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test0922/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test0922/client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test0923.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test09231.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/tianyuan/Cup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/tianyuan/PosionCup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/tianyuan/TestCup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/transnumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/xmlreader/data_10k.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/xmlreader/reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/ym.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/out/production/Thread_test_2/com/cdut/ym/ym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/BlackSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/IO/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/IO/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/IO/IOtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/IO/IOtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/IO/wym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/IO/ym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/exercise/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/exercise/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/exercise/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/exercise/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/exercise/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Lambda/test0731.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Racer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/TerminateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Test0908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Web12306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/Yield/MyYield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/bianlimap/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/jiecheng/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/jimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/paixu/qushuzu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/paixu/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/shunxu/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/test0716.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/test0826.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/test0922/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/test0923.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/test09231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/tianyuan/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/transnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/xmlreader/data_10k.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/xmlreader/reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/ym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread_test_2/src/com/cdut/ym/ym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/ym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/java/com/example/ym/link/GameView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/java/com/example/ym/link/GameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/java/com/example/ym/link/ImageUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/java/com/example/ym/link/ImageUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/java/com/example/ym/link/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/java/com/example/ym/link/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/fc_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/drawable/selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_code/Link/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/out/artifacts/Hib_1106_homework1_war_exploded/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/out/artifacts/Hib_1106_homework1_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/out/artifacts/Hib_1106_homework1_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/out/artifacts/Hib_1106_homework1_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/out/production/Hib_1106_homework1/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/out/production/Hib_1106_homework1/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/cdut/test/MessageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/cdut/test/MessageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/cdut/test/hibernateUitl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/cdut/test/hibernateUitl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/cdut/ym/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/cdut/ym/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1106_homework1/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/item.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/item.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/order.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Hib_1110_homework2/src/com/cdut/ym/order.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Spring_1201_AOP/src/com/cdut/ym/LogAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Spring_1201_AOP/src/com/cdut/ym/LogAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Spring_test_1104s/out/artifacts/Spring_test_1104s_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Spring_test_1104s/out/artifacts/Spring_test_1104s_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/Spring_test_1104s/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/Spring_test_1104s/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/.idea/libraries/antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/blogs_more.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/blogs_more.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/addAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/loginAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/po/Article.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/po/Article.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/po/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/showAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/css/ie6.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/css/ie6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/anchor/anchor.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/anchor/anchor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/attachment/attachment.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/attachment/attachment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/attachment/attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/attachment/attachment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/attachment/attachment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/attachment/attachment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/background/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/background/background.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/background/background.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/background/background.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/background/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/background/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/chart.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/chart.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/charts.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/charts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/charts/charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/emotion/emotion.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/emotion/emotion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/emotion/emotion.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/emotion/emotion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/emotion/emotion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/emotion/emotion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/gmap/gmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/gmap/gmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/help/help.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/help/help.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/help/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/help/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/image/image.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/image/image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/image/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/image/image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/image/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/insertframe/insertframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/internal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/internal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/link/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/link/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/map/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/map/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/map/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/map/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/music/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/music/music.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/music/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/music/music.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/scrawl/scrawl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/scrawl/scrawl.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/scrawl/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/searchreplace/searchreplace.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/searchreplace/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/snapscreen/snapscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/spechars/spechars.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/spechars/spechars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/spechars/spechars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/spechars/spechars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittable.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/table/edittd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/template/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/video/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/video/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/video/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/webapp/webapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/webapp/webapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/wordimage/tangram.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/wordimage/wordimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/wordimage/wordimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/jsp/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/jsp/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/jsp/controller.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/jsp/controller.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/lang/en/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/lang/en/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/lang/zh-cn/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/themes/default/css/ueditor.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/themes/default/css/ueditor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/SyntaxHighlighter/shCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/adapters/mootools-adapter.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/adapters/prototype-adapter.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/adapters/standalone-framework.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/highcharts-more.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/highcharts.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/annotations.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/canvas-tools.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/data.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/drilldown.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/exporting.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/funnel.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/heatmap.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/map.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/no-data-to-display.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/dark-blue.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/dark-green.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/gray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/skies.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/jquery-1.10.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/jquery-1.10.2.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/video-js/font/vjs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/video-js/video-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/video-js/video-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/video-js/video.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/video-js/video.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.flashonly.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.html5only.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.withoutimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/zeroclipboard/ZeroClipboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/ueditor.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/ueditor.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/ueditor.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/ueditor.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/ueditor.parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/editor/ueditor.parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/js/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/list-index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/list-index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/user/addArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/user/addArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/user/showArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/artifacts/blogs_more_war_exploded/user/showArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/addAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/loginAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/po/Article.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/po/Article.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/po/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/showAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/out/production/blogs_more/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/addAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/loginAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/po/Article.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/po/Article.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/po/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/showAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/src/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/css/ie6.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/css/ie6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/anchor/anchor.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/anchor/anchor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/attachment/attachment.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/attachment/attachment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/attachment/attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/attachment/attachment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/attachment/attachment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/attachment/attachment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/background/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/background/background.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/background/background.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/background/background.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/background/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/background/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/chart.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/chart.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/charts.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/charts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/charts/charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/emotion/emotion.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/emotion/emotion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/emotion/emotion.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/emotion/emotion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/emotion/emotion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/emotion/emotion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/gmap/gmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/gmap/gmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/help/help.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/help/help.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/help/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/help/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/image/image.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/image/image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/image/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/image/image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/image/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/insertframe/insertframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/internal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/internal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/link/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/link/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/map/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/map/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/map/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/map/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/music/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/music/music.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/music/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/music/music.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/scrawl/scrawl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/scrawl/scrawl.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/scrawl/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/searchreplace/searchreplace.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/searchreplace/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/snapscreen/snapscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/spechars/spechars.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/spechars/spechars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/spechars/spechars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/spechars/spechars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittable.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/table/edittd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/template/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/video/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/video/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/video/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/webapp/webapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/webapp/webapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/wordimage/tangram.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/wordimage/wordimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/wordimage/wordimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/jsp/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/jsp/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/jsp/controller.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/jsp/controller.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/lang/en/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/lang/en/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/lang/zh-cn/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/themes/default/css/ueditor.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/themes/default/css/ueditor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/SyntaxHighlighter/shCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/adapters/mootools-adapter.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/adapters/prototype-adapter.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/adapters/standalone-framework.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/highcharts-more.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/highcharts.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/annotations.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/canvas-tools.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/data.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/drilldown.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/exporting.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/funnel.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/heatmap.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/map.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/no-data-to-display.src.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/dark-blue.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/dark-green.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/gray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/skies.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/jquery-1.10.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/jquery-1.10.2.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/video-js/font/vjs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/video-js/video-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/video-js/video-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/video-js/video.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/video-js/video.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.flashonly.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.html5only.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.withoutimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/zeroclipboard/ZeroClipboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/ueditor.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/ueditor.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/ueditor.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/ueditor.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/ueditor.parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/editor/ueditor.parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/js/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/list-index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/list-index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/user/addArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/user/addArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/user/showArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/blogs_more/web/user/showArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/hib_bilibili_helloword/src/com/HibernateTet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/hib_bilibili_helloword/src/com/HibernateTet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/hib_bilibili_helloword/src/com/News.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/hib_bilibili_helloword/src/com/News.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea_javaweb/hib_bilibili_helloword/src/com/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea_javaweb/hib_bilibili_helloword/src/com/News.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/news-user/target/" />
+    <ignored path="$PROJECT_DIR$/news-worker/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="958255509">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="3" />
+          <entry key="java" value="5" />
+          <entry key="js" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="5" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="89" />
+          <entry key="java" value="129" />
+          <entry key="xml" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="89" />
+          <entry key="JAVA" value="129" />
+          <entry key="XML" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-user/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-user/src/main/resources/templates/hello.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="117" column="79" lean-forward="true" selection-start-line="117" selection-start-column="79" selection-end-line="117" selection-end-column="79" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/news-worker/src/main/java/news/newsworker/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-user/src/main/resources/static/js/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/news-user/src/main/java/news/newsuser/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/news-user/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/news-user/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/news-worker/pom.xml" />
+        <option value="$PROJECT_DIR$/news-worker/src/main/java/news/newsworker/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/news-user/src/main/resources/templates/hello.html" />
+        <option value="$PROJECT_DIR$/news-worker/src/main/java/news/newsworker/controller/IndexController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="855" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="newsworker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="newsworker" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news-worker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584959394424" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="news.newsworker.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codebase\java\news\news-user\src\main\resources\static" />
+      <recent name="D:\codebase\java\news\news-worker\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NewsUserApplication">
+    <configuration name="NewsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="news" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="news.news.NewsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="news-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="news.newsuser.NewsUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="news-worker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="news.newsworker.NewsWorkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.NewsApplication" />
+      <item itemvalue="Spring Boot.NewsUserApplication" />
+      <item itemvalue="Spring Boot.NewsWorkerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d3b5612-fa0a-4761-bc10-87648117da3f" name="Default Changelist" comment="" />
+      <created>1584583857912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584583857912</updated>
+      <workItem from="1584583865957" duration="4040000" />
+      <workItem from="1584673392878" duration="599000" />
+      <workItem from="1584945001678" duration="1757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6396000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="684" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4979253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3123077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="aiXcoder" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4979253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31384614" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="aiXcoder" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-worker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-worker/src/main/java/news/newsworker/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-worker/src/main/java/news/newsworker/NewsWorkerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-user/src/main/java/news/newsuser/NewsUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-user/src/main/java/news/newsuser/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-worker/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-user/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-user/src/main/resources/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-user/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="117" column="79" lean-forward="true" selection-start-line="117" selection-start-column="79" selection-end-line="117" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-worker/src/main/java/news/newsworker/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
